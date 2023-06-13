@@ -15,9 +15,9 @@
 *Aqui cargamos la reserva , fechas y vemos el valor de la reserva y elegimos la forma de pago.<br>
 ![carga reservas](https://github.com/davidsendra/Challenge-Hotel-Alura-/blob/main/imagenes_readme/carga_reservas.png?raw=true)<br>
 
-*Agggfgcceso al proyecto(#acceso-proyecto)
+*Aqui nos registramos como huesped con nombre , apellido d, fecha de nacimiento, nacionalidad y telefono
 <br>
-![registro huesped](https://github.com/davidsendra/Challenge-Hotel-Alura-/blob/main/imagenes_readme/registro_huespet.png?raw=true)<br>
+![carga huesped](https://github.com/davidsendra/Challenge-Hotel-Alura-/blob/main/imagenes_readme/registro_huespet.png?raw=true)<br>
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
 *[Personas Contribuyentes](#personas-contribuyentes)
