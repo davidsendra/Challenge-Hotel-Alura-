@@ -1,4 +1,4 @@
-##<p align="left"> CHALLENGE ALURA ORACLE G4 </p>
+## CHALLENGE ALURA ORACLE G4 </p>
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
@@ -18,6 +18,12 @@
 *Aqui nos registramos como huesped con nombre , apellido d, fecha de nacimiento, nacionalidad y telefono
 <br>
 ![carga huesped](https://github.com/davidsendra/Challenge-Hotel-Alura-/blob/main/imagenes_readme/registro_huespet.png?raw=true)<br>
+*Aqui buscamos a los huespedes 
+<br>
+![carga huesped](https://github.com/davidsendra/Challenge-Hotel-Alura-/blob/main/imagenes_readme/busqueda_huespedes.png?raw=true)<br>
+*Y aqui a las reservas
+<br>
+![busqueda reservas](https://github.com/davidsendra/Challenge-Hotel-Alura-/blob/main/imagenes_readme/busqueda1.png?raw=true)<br>
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
 *[Personas Contribuyentes](#personas-contribuyentes)
